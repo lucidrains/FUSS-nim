@@ -1,3 +1,5 @@
+<img src="./fuss.png" width="350px"></img>
+
 ## FUSS - Nim (wip)
 
 Implementation of <a href="https://arxiv.org/abs/cs/0610126">FUSS (Fitness Uniform Selection)</a>, a selection method proposed by Marcus Hutter himself for maintaining diversity in evolutionary algorithms, in Nim
