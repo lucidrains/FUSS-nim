@@ -1,6 +1,6 @@
 ## FUSS - Nim (wip)
 
-Implementation of FUSS (Fitness Uniform Selection), a selection method proposed by Marcus Hutter himself for maintaining diversity in evolutionary algorithms, in Nim
+Implementation of <a href="https://arxiv.org/abs/cs/0610126">FUSS (Fitness Uniform Selection)</a>, a selection method proposed by Marcus Hutter himself for maintaining diversity in evolutionary algorithms, in Nim
 
 Basically will be a rewrite of <a href="http://www.hutter1.net/ai/fussdd.cpp">FUSS in C</a>
 
